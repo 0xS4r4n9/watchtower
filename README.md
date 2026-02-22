@@ -1,6 +1,6 @@
 <div align="center">
 
-![WatchTower Banner](https://github.com/0xS4r4n9/watchtower/blob/main/watchtower_banner.svg))
+![WatchTower Banner](https://github.com/0xS4r4n9/watchtower/blob/main/watchtower_banner.svg)
 
 # WatchTower 🗼
 
