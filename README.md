@@ -2,7 +2,7 @@
 
 ![WatchTower Banner](https://github.com/0xS4r4n9/watchtower/blob/main/watchtower_banner.svg)
 
-# WatchTower 🗼
+# ReconTower 🗼
 
 **Network Auditing & Penetration Testing Suite**
 
@@ -22,7 +22,7 @@
 
 ## 📖 Overview
 
-**WatchTower** is a comprehensive, automated network auditing and penetration testing tool built for security professionals and red teamers. It combines host discovery, port scanning, service enumeration, vulnerability detection, exploit intelligence, and professional PDF reporting — all in a single colorful, intuitive CLI tool.
+**ReconTower** is a comprehensive, automated network auditing and penetration testing tool built for security professionals and red teamers. It combines host discovery, port scanning, service enumeration, vulnerability detection, exploit intelligence, and professional PDF reporting — all in a single colorful, intuitive CLI tool.
 
 > ⚠️ **Legal Disclaimer:** WatchTower is intended for use on networks and systems you own or have explicit written permission to test. Unauthorized use against systems you do not own is illegal. The author assumes no liability for misuse.
 
